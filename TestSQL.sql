@@ -1,0 +1,1 @@
+select *,Name,GroupName from [HumanResources].[Department]
